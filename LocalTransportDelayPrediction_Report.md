@@ -1,13 +1,4 @@
 # Local Transport Delay Prediction System
-
-## Cover Page
-
-**Project Title:** Local Transport Delay Prediction System  
-**Course:** Python Programming / Machine Learning  
-**Institution:** VIT / VIT Bhopal University  
-**Project Type:** Build Your Own Project  
-**Date:**  
-
 ---
 
 ## 1. Introduction
