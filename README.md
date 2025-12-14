@@ -20,5 +20,5 @@ The Urban or even the Rural residents frequently face unpredictable public trans
 - Uses original, local data
 - Real-world relevance
 - Scales from beginner to advanced
-- trong ML + analytics balance
+- Strong ML + analytics balance
 
